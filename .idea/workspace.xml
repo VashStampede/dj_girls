@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de3c90a2-b83c-4edc-88d9-65a3f6626fe7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UWUcq9NJ6KrAqzXCwD7LvsEufG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de3c90a2-b83c-4edc-88d9-65a3f6626fe7" name="Default Changelist" comment="" />
+      <created>1575471926556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575471926556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="48" y="163" width="1022" height="737" key="SettingsEditor" timestamp="1575478247022">
+      <screen x="48" y="27" width="1552" height="873" />
+    </state>
+    <state x="48" y="163" width="1022" height="737" key="SettingsEditor/48.27.1552.873@48.27.1552.873" timestamp="1575478247022" />
+    <state x="482" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1575481106677">
+      <screen x="48" y="27" width="1552" height="873" />
+    </state>
+    <state x="482" y="221" width="672" height="678" key="search.everywhere.popup/48.27.1552.873@48.27.1552.873" timestamp="1575481106677" />
+  </component>
+</project>
